@@ -1,0 +1,92 @@
+UserSights:Developed a dashboard replicating the features of Tableau. Involved in Full stack development of the
+application like Logging In/Out, Mail services, Mail Account verification mail. Sentiment analysis on health care
+data.
+
+ChatBot:Built the intelligence using AIML and Open.Ai online tool for query responses and exposed as an API.
+Responsible for full stack development of the chat. Implemented IBM Watson and Microsoft Cognitive services for
+cognitive aspect of a voice assisted bot. Demonstrated the bot in Wipro innovation centre of India and US.
+
+Travel and Expense:Involved in requirement analysis, design and development. Integrated airline services like GoAir
+and Indigo and performed integration testing and fixing bugs. Implemented the mail service using Open Rule Engine
+and exposed APIs for the same. Implemented invoice document operations like generate, upload, download and
+transfer files from one server to another server to streamline their business processes.
+
+
+Inland fisheries refers to the harvesting, management,
+and conservation of fishes generally in freshwater
+bodies such as rivers, lakes, reservoirs, ponds etc.
+• It is mainly done by two methods:-
+○ Capture fisheries: Method of obtaining fish directly
+from lakes, rivers or ponds with the help of fishing
+gears or nets etc
+○ Culture fisheries: Method of obtaining fish by
+raising and harvesting them in controlled environments with tools of breeding or feed management etc.
+• Types of Inland Fisheries:
+o Tanks and Ponds- culture-based fishery is predominant and offers huge potential as India has 2.36 million
+Hectares of Tanks & Ponds area)
+o Brackish & Saline Aquaculture- mainly used in shrimp aquaculture and also to transform ‘Waste land to Wetlands’
+o Cold Water Fisheries- Himalayan states offers an
+unique opportunity for promotion of omega-packed
+trouts
+o Ornamental Fisheries- India having diverse (>195)
+varieties of fishes, they can be reared and marketed
+for their beauty and exotic characteristics
+o Cage Culture in Reservoirs can help in promoting
+culture-based fisheries in small and medium
+reservoirs
+o Riverine Fisheries- With numerous rivers, river
+ranching can be used for conservation of indigenous
+fisheries resources and restoration of natural
+productivity
+Benefits of inland fisheries
+• Nutritional and Food Security: Rich in protein, omega-3
+fatty acids, and Vitamin D, they act as cheap alternatives
+and help in dietary diversity and nutritional requirements
+• Economic benefits like Employment opportunities,
+Development of rural infrastructure, Diverse supply
+chain, exports of processed products increasing foreign
+exchange earnings etc.
+Environmental
+○ Maintenance of Healthy ecosystems by controlling invasive species, supporting biodiversity.
+○ Bioremediation helps in habitat restoration removal of excess nutrients from urban or agricultural runoff and
+reduces the likelihood of toxic algal blooms.
+○ Ecological balance is sustained as fishes being an important component of aquatic food webs benefit other
+species as well.
+• Social and cultural significance:
+○ Traditional knowledge systems of the community and their strong cultural ties contribute to cultural heritage.
+○ Recreational fishing also promotes physical and mental well-being.
+Challenges associated with Indian Inland fisheries
+• Production Challenges: Slow adoption of cutting-edge technologies such as innovative hatchery technologies, waterefficient
+aquaculture practices etc.
+o Limited extension services such as lack of standardised prices, shortage of soil and water testing facilities limits
+scope of development of the sector.
+• Economic Challenges: Like lack of timely credit, inadequate price discovery mechanism due to lack of efficient
+electronic trading platform, post-harvest losses etc.
+• Infrastructure Challenges: Like inadequate cold chain facilities, inadequate Post-Harvest Infrastructure, etc.
+• Environmental Challenges
+o Inadequate Mechanisation and use of traditional boats often results in Water pollution and improper
+aquaculture management
+o Sustainability issues due to rising demand for animal protein, fish stocks are often being fully exploited,
+overfished, or severely depleted at various places.
+Way Forward
+• Adoption of emerging technologies such as big data, blockchain and IoT-based supply chain systems can help in
+minimising losses, improving traceability etc.
+• Multi Stakeholder approach in decision making process, from fishermen to boat owners and government
+organisations.
+• Adoption of FAO’s Code of Conduct for Responsible Fisheries for sustainable and responsible fish farming practices.
+• Fish farmer producer organisations (FFPOs) can help in collectivisation of fish farmers and serve as an institutional
+platform for delivery of products and services, market linkages etc.
+○ FFPO is an association of fishers and their stakeholders organised with the primary objective of carrying out
+sustainable fisheries value chain business activities and are registered under law.
+• Infrastructure development such as food parks, cold storage units, chiller boxes, ice factories so as to improve the
+logistical support as well as improve the shelf life of the product.
+
+Infrastructure is such as food parks, cold storage units, chiller boxes, ice factories so as to decrease the
+logistical data as well as decrease the shelf life of the product.
+
+who are you???
+
+This is the end of the File... Not yet...
+chanch1001@gmail.com
+
+The first prize goes to chanchal Sahu for 
